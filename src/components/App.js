@@ -12,7 +12,7 @@ class App extends React.Component{
 	};
 
 	componentDidMount(){
-		this.onTermSubmit('youtube Trend 2019');
+		this.onTermSubmit('Reactjs 2019');
 	}
 
 	onTermSubmit = async term => {
